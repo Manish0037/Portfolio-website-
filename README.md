@@ -1,2 +1,2 @@
 # Portfolio-website-
-A html and javascript and style.js tools areusin to make a portfolio web 
+A html and Script.js tools are using to make a portfolio web 
